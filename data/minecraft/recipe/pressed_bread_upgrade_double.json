@@ -5,13 +5,10 @@
 	],
 	"key": {
 		"#": "minecraft:pressed_bread",
-		"B": "minecraft:milk_bucket",
-		"U": "minecraft:pressed_bread_upgrade"
+        "U": "minecraft:pressed_bread_upgrade"
 	},
 	"pattern": [
-		"BUB",
-		"B#B",
-		"BBB"
+		"#U"
 	],
 	"result": {
 		"count": 2,

@@ -1,0 +1,9 @@
+{
+   "type": "minecraft:smithing_transform",
+   "addition": "#minecraft:bread_tool_materials",
+   "base": "minecraft:iron_helmet",
+   "result": {
+   "id": "minecraft:bread_helmet"
+   },
+   "template": "minecraft:pressed_bread_upgrade"
+} 

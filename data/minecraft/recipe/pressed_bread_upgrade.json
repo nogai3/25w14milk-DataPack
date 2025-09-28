@@ -5,12 +5,12 @@
 	],
 	"key": {
 		"#": "minecraft:pressed_bread",
-		"B": "minecraft:milk_bucket",
-		"I": "minecraft:iron_ingot"
+        "I": "minecraft:iron_ingot",
+        "B": "minecraft:bread"
 	},
 	"pattern": [
-		"#I#",
-		"#I#",
+		"III",
+		"I#I",
 		"BBB"
 	],
 	"result": {

@@ -1,0 +1,13 @@
+{
+    "recipe": [
+        "bread_sword.json",
+        "bread_pickaxe.json",
+        "bread_axe.json",
+        "bread_shovel.json",
+        "bread_hoe.json",
+        "bread_helmet.json",
+        "bread_chestplate.json",
+        "bread_leggings.json",
+        "bread_boots.json"
+    ]
+}
