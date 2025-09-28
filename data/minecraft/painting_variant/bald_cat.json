@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:bald_cat",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.plytoni.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.bald_cat.title"
+  },
+  "width": 4
+}

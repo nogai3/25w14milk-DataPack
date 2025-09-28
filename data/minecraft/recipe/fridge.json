@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": [
+		"misc", "food"
+	],
+	"key": {
+		"#": "minecraft:redstone",
+		"I": "minecraft:iron_block",
+		"F": "minecraft:iron_bars"
+	},
+	"pattern": [
+		"###",
+		"#F#",
+		"III"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:fridge"
+	}
+}

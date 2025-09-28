@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:nerkin",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.nerkin.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.nerkin.title"
+  },
+  "width": 4
+}

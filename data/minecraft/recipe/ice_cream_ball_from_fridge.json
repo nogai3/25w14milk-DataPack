@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:fridge",
+    "category": "food",
+    "cookingtime": 200,
+    "experience": 0.35,
+    "ingredient": "minecraft:concentred_milk",
+    "result": {
+      "id": "minecraft:ice_cream_ball"
+    }
+  }

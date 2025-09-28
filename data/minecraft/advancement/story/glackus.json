@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/milky_bread",
+  "criteria": {
+    "sprinkles": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:sprinkles"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.glackus.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:sprinkles"
+    },
+    "title": {
+      "translate": "advancements.story.glackus.title"
+    }
+  },
+  "requirements": [
+    [
+      "sprinkles"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

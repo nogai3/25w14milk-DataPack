@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "minecraft:dense_milk_block"
+    },
+    "pattern": [
+        "#"
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:dense_milk_button"
+    }
+}

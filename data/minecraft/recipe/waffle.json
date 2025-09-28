@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": [
+		"misc", "food"
+	],
+	"key": {
+		"#": "minecraft:wheat",
+		"S": "minecraft:sugar",
+		"C": "minecraft:cocoa_beans",
+		"E": "minecraft:egg"
+	},
+	"pattern": [
+		"EEE",
+		"CSC",
+		"###"
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:waffle"
+	}
+}

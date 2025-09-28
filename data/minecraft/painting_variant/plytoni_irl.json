@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:plytoni_irl",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.plytoni_irl.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.plytoni_irl.title"
+  },
+  "width": 4
+}

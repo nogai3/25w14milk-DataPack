@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:filya_cat",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.glackus.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.filya_cat.title"
+  },
+  "width": 4
+}

@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:glackus",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.glackus.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.glackus.title"
+  },
+  "width": 4
+}

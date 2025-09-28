@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:wandarmo",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.wandarmo.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.wandarmo.title"
+  },
+  "width": 4
+}

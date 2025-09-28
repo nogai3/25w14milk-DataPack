@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": [
+		"misc", "food"
+	],
+	"key": {
+		"#": "minecraft:waffle",
+		"I": "minecraft:ice_cream_ball"
+	},
+	"pattern": [
+		"###",
+		"III",
+		"###"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:ice_cream_with_waffle_plombire"
+	}
+}

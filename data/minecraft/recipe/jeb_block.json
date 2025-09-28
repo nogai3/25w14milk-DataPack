@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "block",
+    "key": {
+        "D": "minecraft:diamond_block",
+        "N": "minecraft:netherite_block",
+		"S": "minecraft:nether_star",
+		"B": "minecraft:barrier",
+		"T": "minecraft:structure_block",
+        "#": "minecraft:command_block"
+    },
+    "pattern": [
+        "NNN",
+        "DSD",
+        "#BT"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:jeb_block"
+    }
+}

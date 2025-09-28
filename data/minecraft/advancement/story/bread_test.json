@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:story/with_bread_and_salt",
+  "criteria": {
+    "bread_tools": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bread_sword"
+          },
+          {
+            "items": "minecraft:bread_pickaxe"
+          },
+          {
+            "items": "minecraft:bread_axe"
+          },
+          {
+            "items": "minecraft:bread_shovel"
+          },
+          {
+            "items": "minecraft:bread_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.bread_test.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:pressed_bread_upgrade"
+    },
+    "title": {
+      "translate": "advancements.story.bread_test.title"
+    }
+  },
+  "requirements": [
+    [
+      "bread_tools"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

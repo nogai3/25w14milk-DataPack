@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:kapitankastet_irl",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.kapitankastet_irl.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.kapitankastet_irl.title"
+  },
+  "width": 4
+}

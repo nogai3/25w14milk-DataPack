@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": [
+		"equipment"
+	],
+	"key": {
+		"#": "minecraft:pressed_bread",
+		"I": "minecraft:iron_axe",
+		"U": "minecraft:pressed_bread_upgrade"
+	},
+	"pattern": [
+		"#I#",
+		"#U#",
+		"###"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:bread_axe"
+	}
+}

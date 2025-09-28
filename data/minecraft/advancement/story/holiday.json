@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/more_milky",
+  "criteria": {
+    "holiday": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:easter_cake"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.holiday.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:easter_cake"
+    },
+    "title": {
+      "translate": "advancements.story.holiday.title"
+    }
+  },
+  "requirements": [
+    [
+      "holiday"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

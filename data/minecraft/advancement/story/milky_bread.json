@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/new_milk_era",
+  "criteria": {
+    "bread_with_concentred_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bread_with_concentred_milk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.milky_bread.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bread_with_concentred_milk"
+    },
+    "title": {
+      "translate": "advancements.story.milky_bread.title"
+    }
+  },
+  "requirements": [
+    [
+      "bread_with_concentred_milk"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

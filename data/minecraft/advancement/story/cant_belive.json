@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/with_bread_and_salt",
+  "criteria": {
+    "jeb_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:jeb_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.cant_belive.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:jeb_block"
+    },
+    "title": {
+      "translate": "advancements.story.cant_belive.title"
+    }
+  },
+  "requirements": [
+    [
+      "jeb_block"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

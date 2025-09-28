@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": [
+		"food", "misc"
+	],
+    "key": {
+        "#": "minecraft:pressed_bread"
+    },
+    "pattern": [
+        "#"
+    ],
+    "result": {
+        "count": 9,
+        "id": "minecraft:bread"
+    }
+}

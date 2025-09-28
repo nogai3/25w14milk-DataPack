@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/holiday",
+  "criteria": {
+    "pressed_bread_upgrade": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:pressed_bread_upgrade"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.with_bread_and_salt.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:pressed_bread_upgrade"
+    },
+    "title": {
+      "translate": "advancements.story.with_bread_and_salt.title"
+    }
+  },
+  "requirements": [
+    [
+      "pressed_bread_upgrade"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

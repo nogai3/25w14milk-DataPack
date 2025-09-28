@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "minecraft:milk_block",
+	"M": "minecraft:water_bucket"
+    },
+    "pattern": [
+	"#",
+	"M"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:milk_bucket"
+    }
+}

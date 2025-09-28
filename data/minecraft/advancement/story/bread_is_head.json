@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:story/with_bread_and_salt",
+  "criteria": {
+    "bread_armour": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bread_helmet"
+          },
+          {
+            "items": "minecraft:bread_chestplate"
+          },
+          {
+            "items": "minecraft:bread_leggings"
+          },
+          {
+            "items": "minecraft:bread_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.bread_is_head.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bread_chestplate"
+    },
+    "title": {
+      "translate": "advancements.story.bread_is_head.title"
+    }
+  },
+  "requirements": [
+    [
+      "bread_armour"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

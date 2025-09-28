@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": [
+		"equipment"
+	],
+	"key": {
+		"#": "minecraft:pressed_bread",
+		"B": "minecraft:milk_bucket",
+		"U": "minecraft:pressed_bread_upgrade"
+	},
+	"pattern": [
+		"BUB",
+		"B#B",
+		"BBB"
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:pressed_bread_upgrade"
+	}
+}

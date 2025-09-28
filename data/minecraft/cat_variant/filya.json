@@ -1,0 +1,8 @@
+{
+  "asset_id": "minecraft:entity/cat/filya",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

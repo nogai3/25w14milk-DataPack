@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/the_world_of_milk",
+  "criteria": {
+    "concentred_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:concentred_milk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.new_milk_era.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:concentred_milk"
+    },
+    "title": {
+      "translate": "advancements.story.new_milk_era.title"
+    }
+  },
+  "requirements": [
+    [
+      "concentred_milk"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

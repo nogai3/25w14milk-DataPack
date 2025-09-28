@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "group": "food",
+    "key": {
+		"#": "minecraft:bread",
+		"I": "minecraft:concentred_milk"
+    },
+    "pattern": [
+		"#I"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:bread_with_concentred_milk"
+    }
+}

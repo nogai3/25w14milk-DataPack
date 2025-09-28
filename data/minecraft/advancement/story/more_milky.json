@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/glackus",
+  "criteria": {
+    "easter_cake_blank": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:easter_cake_blank"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.more_milky.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:easter_cake_blank"
+    },
+    "title": {
+      "translate": "advancements.story.more_milky.title"
+    }
+  },
+  "requirements": [
+    [
+      "easter_cake_blank"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

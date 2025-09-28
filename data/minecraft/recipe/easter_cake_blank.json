@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "key": {
+        "#": "minecraft:concentred_milk",
+        "M": "minecraft:milk_bucket",
+        "E": "minecraft:egg",
+        "S": "minecraft:sprinkles",
+        "W": "minecraft:wheat"
+    },
+    "pattern": [
+        "#M#",
+        "ESE",
+        "WWW"
+    ],
+    "result": {
+        "count": 1,
+        "id": "easter_cake_blank"
+    }
+}
